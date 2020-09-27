@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jenkins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jenkins/jenkins-packer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jenkins/jenkins-seed-jobs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jenkins/jenkins-shared-library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-cart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-catalogue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-dispatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-mongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-rabbitmq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-ratings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-redis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-shipping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop/rs-user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kubernetes" vcs="Git" />
+  </component>
+</project>
